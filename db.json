@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Yamada-kun",
+      "budget": "17",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 15,
+      "services": [
+        {
+          "name": "Akane",
+          "cost": "15",
+          "description": "Adicionar Akane na vida",
+          "id": "346bfae1-4c6a-4bbe-aed5-f38ee0960803"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
